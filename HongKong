@@ -1,0 +1,13 @@
+IP-CIDR,92.114.93.1/16// Rick自建的ipv6服务器
+DOMAIN-KEYWORD,bnb// 币安
+DOMAIN-KEYWORD,binance// 币安
+DOMAIN-KEYWORD,axos// AXOS银行
+DOMAIN-KEYWORD,coinmarketcap// 币市场Coinmarketcap
+DOMAIN-KEYWORD,coolholder// 君达科技电商网站
+DOMAIN-KEYWORD,servebolt// servebolt服务器
+DOMAIN-KEYWORD,schwab// 嘉信理财
+IP-CIDR,168.158.149.59/32// hal浏览器
+IP-CIDR,45.84.103.120/32// 香港proxycheap代理ip
+SRC-IP,192.168.0.113// tiktok白色iphone X
+DOMAIN-KEYWORD,canva// 创意图片设计网站
+DOMAIN-KEYWORD,unsplash// 图片壁纸下载网站
